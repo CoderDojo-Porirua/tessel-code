@@ -1,7 +1,7 @@
 # Climate monitor
 
-Plug climate sensor into Port A
-Plug SD card into Port B
+- Plug climate sensor into Port A
+- Plug SD card into Port B
 
 ````
 mkdir climate-monitor
